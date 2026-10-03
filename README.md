@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrittaLangen
-- 👀 I’m interested in radiation & space research. I also have a knack for communication tools.  
+- 👀 I am a radiation researcher with a knack for languages and communication tools.  
 - 🌱 I’m currently learning video-based 3D reconstruction and rendering.
 - 💞️ I’m looking to collaborate on ☝️
 - 📫 How to reach me: https://www.instagram.com/cuespecs.official
