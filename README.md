@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BrittaLangen
 - 👀 I’m interested in radiation & space research. I also have a knack for communication tools.  
-- 🌱 I’m currently learning video processing.
-- 💞️ I’m looking to collaborate on video processing.
-- 📫 How to reach me: here, or queenofcrashdowns on Discord.
+- 🌱 I’m currently learning video-based 3D reconstruction and rendering.
+- 💞️ I’m looking to collaborate on ☝️
+- 📫 How to reach me: https://www.instagram.com/cuespecs.official
 - ⚡ Fun fact: I build my own gaming rigs. Rumor has it I have an AMD Athlon on my conscience.
 
 <!---
